@@ -10,6 +10,7 @@ namespace FynBusGruppe5
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("HEJ");
         }
     }
 }
